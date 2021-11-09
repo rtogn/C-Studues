@@ -1,0 +1,8 @@
+CREATE TABLE wee( 
+               ID INTEGER PRIMARY KEY AUTOINCREMENT,
+               symbol STRING NOT NULL,
+               name STRING,
+               Sector STRING,
+               Industry STRING);
+insert into wee (symbol, name, sector, industry) values("benui", "Cheese", "POOP", "REE");
+select * from wee;

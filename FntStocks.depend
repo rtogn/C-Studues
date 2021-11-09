@@ -1,0 +1,204 @@
+# depslib dependency file v1.0
+1620096148 source:c:\users\lobster\desktop\fntstocks\main.cpp
+	<iostream>
+	<fstream>
+	"CppSQLite3.h"
+	"RandomNumbers.h"
+	"NameFunctions.h"
+	"GeneralIOFunctions.h"
+
+1620083005 source:c:\users\lobster\desktop\fntstocks\randomnumbers.cpp
+	<iostream>
+	<random>
+	<ctime>
+
+1615469373 c:\users\lobster\desktop\fntstocks\randomnumbers.cpp
+	<iostream>
+	<random>
+	"RandomNumbers.h"
+
+1616344048 c:\users\lobster\desktop\fntstocks\randomnumbers.h
+
+1620084563 source:c:\users\lobster\desktop\fntstocks\namefunctions.cpp
+	<iostream>
+	<string>
+	"RandomNumbers.h"
+
+1620078491 c:\users\lobster\desktop\fntstocks\namefunctions.h
+
+1615468790 c:\users\lobster\desktop\fntstocks\namefunctions.cpp
+
+1620096100 source:c:\users\lobster\desktop\fntstocks\generaliofunctions.cpp
+	<iostream>
+
+1620096029 c:\users\lobster\desktop\fntstocks\generaliofunctions.h
+
+1616010332 source:c:\users\lobster\desktop\fntstocks\sqlite3.c
+	"config.h"
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1616433115 source:c:\users\lobster\desktop\fntstocks\cppsqlite3.cpp
+	"CppSQLite3.h"
+	<cstdlib>
+
+1616433115 c:\users\lobster\desktop\fntstocks\cppsqlite3.h
+	"sqlite3.h"
+	<cstdio>
+	<cstring>
+
+1616010332 c:\users\lobster\desktop\fntstocks\sqlite3.h
+	<stdarg.h>
+
+1616429515 source:c:\users\lobster\desktop\programming projects\fntstocks\cppsqlite3.cpp
+	"CppSQLite3.h"
+	<cstdlib>
+
+1616429515 c:\users\lobster\desktop\programming projects\fntstocks\cppsqlite3.h
+	"sqlite3.h"
+	<cstdio>
+	<cstring>
+
+1616006732 c:\users\lobster\desktop\programming projects\fntstocks\sqlite3.h
+	<stdarg.h>
+
+1620092500 source:c:\users\lobster\desktop\programming projects\fntstocks\generaliofunctions.cpp
+	<iostream>
+
+1620079405 source:c:\users\lobster\desktop\programming projects\fntstocks\randomnumbers.cpp
+	<iostream>
+	<random>
+	<ctime>
+
+1616006732 source:c:\users\lobster\desktop\programming projects\fntstocks\sqlite3.c
+	"config.h"
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	<ctype.h>
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1636465545 source:c:\users\lobster\desktop\programming projects\fntstocks\main.cpp
+	<iostream>
+	<fstream>
+	"CppSQLite3.h"
+	"RandomNumbers.h"
+	"NameFunctions.h"
+	"GeneralIOFunctions.h"
+
+1616340448 c:\users\lobster\desktop\programming projects\fntstocks\randomnumbers.h
+
+1620074891 c:\users\lobster\desktop\programming projects\fntstocks\namefunctions.h
+
+1620092429 c:\users\lobster\desktop\programming projects\fntstocks\generaliofunctions.h
+
+1636464947 source:c:\users\lobster\desktop\programming projects\fntstocks\namefunctions.cpp
+	<iostream>
+	<string>
+	"RandomNumbers.h"
+
